@@ -1,5 +1,5 @@
 {
-    "name": "FIRE MD",
+    "name": "FIRE AI",
     "version": "2.1.0",
     "description": "A FIRE NATION  BY OPAKSFIRE",
     "main": "index.js",
@@ -17,16 +17,16 @@
         "test": "node test.js"
     },
     "keywords": [],
-    "homepage": "https://github.com/Opaksfire/FIRE-MD/",
+    "homepage": "https://github.com/Opaksfire/FIRE-AI/",
     "author": {
         "name": "OPAKSFIRE"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Opaksfire/FIRE-MD.git"
+        "url": "git+https://github.com/Opaksfire/FIRE-AI.git"
     },
     "bugs": {
-        "url": "https://github.com/Opaksfire/FIRE-MD/issues"
+        "url": "https://github.com/Opaksfire/FIRE-AI/issues"
     },
     "license": "Apache License 2.0",
     "dependencies": {
