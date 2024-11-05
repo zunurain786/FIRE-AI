@@ -1,22 +1,22 @@
 <p align="center">  
   <a href="">
     <img alt="Opaksfire" height="300" src="https://api.shannmoderz.xyz/server/file/XyjKP6IA0VnyFZF.jpg">
-    <h1 align="center">FIRE-MD</h1>
+    <h1 align="center">FIRE-AI</h1>
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Opaksfire"><img title="Author" src="https://img.shields.io/badge/FIRE-MD-black?style=for-the-badge&logo=telegram"></a>
+<a href="https://github.com/Opaksfire"><img title="Author" src="https://img.shields.io/badge/FIRE-AI-black?style=for-the-badge&logo=telegram"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/Opaksfire?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Opaksfire?label=Followers&style=social"></a>
-<a href="https://github.com/Opaksfire/FIRE-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Opaksfire/FIRE-MD?&style=social"></a>
-<a href="https://github.com/Opaksfire/FIRE-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Opaksfire/FIRE-MD?style=social"></a>
-<a href="https://github.com/Opaksfire/FIRE-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Opaksfire/FIRE-MD?label=Watching&style=social"></a>
-<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FOpaksfirs%2FFIRE-MD?ref=badge_shield" alt="FOSSA Status"><img sarc="https://app.fossa.com/api/projects/git%2Bgithub.com%2FOpaksfire%2FFIRE-MD.svg?type=shield"/></a>
+<a href="https://github.com/Opaksfire/FIRE-AI/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Opaksfire/FIRE-MD?&style=social"></a>
+<a href="https://github.com/Opaksfire/FIRE-AI/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Opaksfire/FIRE-AI?style=social"></a>
+<a href="https://github.com/Opaksfire/FIRE-AI/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Opaksfire/FIRE-AI?label=Watching&style=social"></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FOpaksfirs%2FFIRE-AI?ref=badge_shield" alt="FOSSA Status"><img sarc="https://app.fossa.com/api/projects/git%2Bgithub.com%2FOpaksfire%2FFIRE-AI.svg?type=shield"/></a>
 </p>
 
 ####  
-FIRE-MD 🔥 BRINGING FORTH A NEW FIRE REVOLUTION .
+FIRE-AI 🔥 BRINGING FORTH A NEW FIRE REVOLUTION .
 
 ***
 ## important
@@ -27,7 +27,7 @@ This project  uses Mega.nz's services exclusively for generating session IDs. Th
 
 1. Fork the repo
     <br>
-<a href='https://github.com/Opaksfire/FIRE-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/Opaksfire/FIRE-AI/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 2. Get Session ID / CREDS.JSON 
@@ -89,7 +89,7 @@ This project  uses Mega.nz's services exclusively for generating session IDs. Th
 
 WhatsApp Channel: <a href="https://whatsapp.com/channel/0029VajYjMJJf05aRQXKx82W"><img alt="WhatsApp" src="https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png"/></a>
 
-- Star ⭐ the repo if you like FIRE-MD.
+- Star ⭐ the repo if you like FIRE-AI.
 
 
 ## `Main Dev` 
@@ -98,11 +98,11 @@ WhatsApp Channel: <a href="https://whatsapp.com/channel/0029VajYjMJJf05aRQXKx82W
 `FIRE MD - By Opaksfire`
 
 ### Credits 
-Thanks 🙏🏿 To DAVID CYRIL AND DG XEON FOR THEIR TEACHINGS
+ThanksDG XEON FOR HIS TEACHINGS 
 
    
 ## 
-- This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!`(Though your WhatsApp account can be unbanned only once.)
+- This AI is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!`(Though your WhatsApp account can be unbanned only once.)
 - I am not responsible for banning your account.
 - Use at your own risk by keeping this warning in mind.
 
